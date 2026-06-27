@@ -1,2 +1,1 @@
-70317;Nicolle Rodriguez;88936333;nikodeay;Guapiles
-70318;Luis Fernando;889363;luisf;Puntarenas
+01;Nicolle Rodr¡guez Lobo;88936333;niko@gmail.com;Heredia
