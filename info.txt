@@ -4,7 +4,7 @@ Curso: Algoritmos y Estructuras de Datos
 Semestre: Primer Semestre 2026
 
 Estudiantes:
-- Jimena Araya Sing, ________
+- Jimena Araya Sing, 2025091383
 - Nicolle Rodríguez Lobo, 2025081321
 - Camila Sandí López, ________
 
