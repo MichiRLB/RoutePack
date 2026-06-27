@@ -1,0 +1,11 @@
+P;Centro
+P;San Pedro
+P;Tres Rios
+P;Cartago
+P;Heredia
+P;Puntarenas
+R;Centro;San Pedro;5
+R;Centro;Heredia;12
+R;Centro;Puntarenas;45
+R;San Pedro;Tres Rios;7
+R;Tres Rios;Cartago;10
