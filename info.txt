@@ -1,0 +1,12 @@
+Proyecto Programado 2: RoutePack
+
+Curso: Algoritmos y Estructuras de Datos
+Semestre: Primer Semestre 2026
+
+Estudiantes:
+- Jimena Araya Sing, ________
+- Nicolle Rodríguez Lobo, 2025081321
+- Camila Sandí López, ________
+
+Fecha de entrega: 26/06/2026
+Estatus de la entrega: Entregado
